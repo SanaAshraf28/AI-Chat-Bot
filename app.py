@@ -22,7 +22,7 @@ def api():
     mock_responses = {
         "Schedule an Appointment": "Sure, I can help you schedule an appointment. Please provide the details.",
         "Suggest a diet plan": "Please suggest any requirements and restrictions you may have",
-        "Check your symptom": "Please describe your symptoms, and I will help you understand them better."
+        "Check your symptoms": "Please describe your symptoms, and I will help you understand them better."
     }
 
     # Check if the user message matches one of the mock responses
